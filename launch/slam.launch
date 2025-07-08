@@ -1,7 +1,7 @@
 <launch>
 
   <!-- 迷你机器人，基础参数 -->
-  <arg name="robot_name" default="tianbot_mini" />
+  <arg name="robot_name" default="tianbot_mini1" />
   <arg name="scan_topic" default="scan" />
   <arg name="odom_topic" default="odom" />
   <arg name="cmd_vel_topic" default="cmd_vel" />
